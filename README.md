@@ -6,5 +6,5 @@
   <strong>3 01 2024</strong>
 
 
-> [! NOTE]
+> [!NOTE]
 > Recuerda que cada proyecto es mejor contigo
